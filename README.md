@@ -3,7 +3,7 @@ Data Warehouse &amp; Data Mining 2021
 
 Khamsaen Kaeophiphob 623020761-8
 
-Grop แมวส้ม
+Grop แมวส้มสร้างตัว
 1.คำแสน แก้วพิภพ
 2.วานิตา สมเด็จ
 3.จิตรกร จันทะสี 
