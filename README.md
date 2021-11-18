@@ -9,3 +9,11 @@ Grop แมวส้มสร้างตัว
 3.จิตรกร จันทะสี 
 4.อาธิติยา ธรรมวงษา
 5.กรกนก สังฆพันธ์  
+
+สารบัญ
+บทที่ 1: Introduction
+Data Warehouse & Data Mining
+Data Mining (การทำเหมืองข้อมูล)
+Knowledge Discovery (KDD) Process
+ขั้นตอนการทำเหมืองข้อมูล
+เทคนิคของ Data Mining
