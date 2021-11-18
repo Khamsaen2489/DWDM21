@@ -12,12 +12,14 @@ Grop แมวส้มสร้างตัว
 
 สารบัญ
 บทที่ 1: Introduction (บรรยาย)
+
 Data Warehouse & Data Mining
 Data Mining (การทำเหมืองข้อมูล)
 Knowledge Discovery (KDD) Process
 ขั้นตอนการทำเหมืองข้อมูล
 เทคนิคของ Data Mining
-บทที่ 2: Know Your Data
+บทที่ 2: Getting to Know Your Data
+
 มิติของ Data (บรรยาย)
 Basic Python
 Varibles
@@ -69,6 +71,7 @@ Distance function
 Manhattan Distance (L1-norm)
 Distance of Binary Value
 บทที่ 3: Data Preprocessig
+
 การชี้ข้อมูลในตาราง
 ชี้แบบธรรมดา [ชื่อคอลัมน์][index]
 ชี้แบบ .iloc[] (มองข้อมูลเป็น matrix)
@@ -96,3 +99,22 @@ Panda's looping (.ilerrows)
 Group by (pandas)
 [PD] save ตารางเอาไปใช้ที่อื่น
 [PD] การสร้างตาราง
+บทที่ 4: Data Warehousing and On-line Analytical Processing
+
+บทที่ 5: Association Rules
+
+Mining Frequent Patterns, Association and Correlations (บรรยาย)
+What Is Pattern Discovery
+Basic Concepts
+Apriori
+Data 'reduced_marketbasket' Case
+HW
+มีประเทศสาขาของ Supermarket นี้ทั้งหมดกี่ประเทศ
+วาดกราฟสรุปจำนวน items และ ยอดขายของแต่ละประเทศ
+เพิ่มคอลัมน์ ยอดขาย (Quantity x UnitPrice)
+จัดกลุ่มและหายอดขายรวม
+จัดกลุ่มและหายอดขายรวม
+เรียนต่อ
+ลบ records ที่ถูก cancel ออกไป
+เตรียม data สำหรับ (Fequence Pattern) Association Rule
+Apriori
