@@ -31,9 +31,40 @@ format string
 Loop
 Nested loop
 Condition (if statment)
-function
+Function
 normal
 ไม่มี input
 ไม่มี output
 ไม่มีทั้ง input และ output
 ลักษณะของ input (parameter)
+Pandas
+Read Data
+.head() & .tail() (ดูหัวตาราง ท้ายตาราง)
+Boxplot
+Time Series plot
+Visualization
+Scatter plot
+Normal
+กำหนดขนาดจุด
+กำหนดสี
+เปลี่ยนลักษณะของจุดเป็นอย่างอื่น
+Plot (เป็นการพล็อตกราฟที่เชื่อมกัน)
+Bar Chart
+Grouped Barchart (พล็อตเทียบด้านข้าง)
+Stacked Barchart (พล็อตเทียบในแท่งเดียวกัน)
+Histogram
+Distance Numpy
+Numpy Array
+สร้าง numpy array (matrix)
+matrix transpose
+สร้าง matrix เริ่มต้น (zeros,ones)
+สร้าง matrix random
+matrix properties
+matrix properties
+Useful functions
+เขียน function วนลูปหา sum, mean, max, min
+Distance Matrix
+Euclidean Distance (L2-norm)
+Distance function
+Manhattan Distance (L1-norm)
+Distance of Binary Value
