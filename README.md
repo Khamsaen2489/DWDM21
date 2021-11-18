@@ -17,3 +17,4 @@ Data Mining (การทำเหมืองข้อมูล)
 Knowledge Discovery (KDD) Process
 ขั้นตอนการทำเหมืองข้อมูล
 เทคนิคของ Data Mining
+
